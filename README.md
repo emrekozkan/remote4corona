@@ -183,9 +183,10 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [UserGuiding](https://userguiding.com/)                    |                | 1 ay    |
 |     | [Vademecum Yayıncılık A.Ş](https://www.vademecumonline.com.tr/)|            | -       |
 |     | [VBT](http://www.vbt.com.tr/)                              |                | -       |
-|     | [Veridyen](http://www.veridyen.com/)                       |                | 2+ hafta |
+|     | [Veridyen](http://www.veridyen.com/)                       |                | 2+ hafta|
 |     | [Veri Yazılım (KERZZ)](https://www.kerzz.com/)             |                | -       |
-|     | [VeriPark](https://www.veripark.com/)                      | 2020-03-18     | 2+ hafta |
+|     | [VeriPark](https://www.veripark.com/)                      | 2020-03-18     | 2+ hafta|
+|     | [viravira.co](https://www.viravira.co/)                    | 2020-03-17     | Süresiz |
 |     | [Vircon](http://www.vircongroup.com/)                      |                | -       |
 |     | [Vivense](https://www.vivense.com)                         |                | 1 hafta |
 |     | [Xenn.io](https://xenn.io/#/)                              |                | 1 hafta |
